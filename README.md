@@ -44,7 +44,7 @@ login page:
 ![Screenshot 2025-05-04 141553](https://github.com/user-attachments/assets/9d1a7d1d-937e-4081-a630-46274ed911d5)
 selection of transaction:
 ![Screenshot 2025-05-04 141720](https://github.com/user-attachments/assets/70aa4720-03f7-4ece-9735-24d203add2fe)
-deposite:
+deposit:
 ![Screenshot 2025-05-04 141759](https://github.com/user-attachments/assets/bc52ff2d-0961-4aac-97b1-532f7b8bc9eb)
 withdrawal:
 ![Screenshot 2025-05-04 141817](https://github.com/user-attachments/assets/a4eed342-8ad7-4b05-bdf4-2acc2a1fea9b)
