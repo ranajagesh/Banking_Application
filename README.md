@@ -51,7 +51,8 @@ withdrawal:
 View balance:
 ![Screenshot 2025-05-04 141830](https://github.com/user-attachments/assets/e5306d5d-b6dc-4eb1-a84d-137f54a8158d)
 mini statement:
-![Screenshot 2025-05-04 141851](https://github.com/user-attachments/assets/1c32ce11-9f20-4681-8f17-b1337a464ee6)
+![Screenshot 2025-05-04 141851](https://github.com/user-attachments/assets/e4ed113c-e599-487d-91c7-00314db4b19d)
+
 
 
 
