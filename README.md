@@ -11,19 +11,19 @@ This project simulates a basic banking system where users can:
 The application emphasizes core Java concepts and demonstrates how to interact with a database using JDBC.
 
 # Technologies Used
-  Java (JDK 8)
-  JDBC (Java Database Connectivity)\
-  Java SWING & AWT(GUI)
-  MySQL
-  IntelliJ IDEA (for development)
+  - Java (JDK 8)
+  - JDBC (Java Database Connectivity)\
+  - Java SWING & AWT(GUI)
+  - MySQL
+  - IntelliJ IDEA (for development)
 
 # Features
-  User Registration: Collects user details and creates a new account.
-  Login System: Authenticates users before allowing access to banking operations.
-  Deposit & Withdrawal: Allows users to deposit or withdraw funds.
-  Balance Inquiry: Displays the current balance of the user's account.
-  Mini Statement: Shows recent transactions.
-  PIN Change: Enables users to change their account PIN.
+  - User Registration: Collects user details and creates a new account.
+  - Login System: Authenticates users before allowing access to banking operations.
+  - Deposit & Withdrawal: Allows users to deposit or withdraw funds.
+  - Balance Inquiry: Displays the current balance of the user's account.
+  - Mini Statement: Shows recent transactions.
+  - PIN Change: Enables users to change their account PIN.
 
 # How to Run
 1. Clone the repository:
